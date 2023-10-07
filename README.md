@@ -6,22 +6,22 @@ This repository contains examples of various data structures implemented in C#. 
 
 ### 1. LinkedList
 
-- **File:** `LinkedListExample.cs`
+- **File:** `LinkedList.cs`
 - **Description:** Demonstrates the usage of a doubly linked list in C#. Includes adding elements to the list and iterating through it.
 
 ### 2. HashSet
 
-- **File:** `HashSetExample.cs`
+- **File:** `HashSet.cs`
 - **Description:** Demonstrates the usage of a HashSet in C#. Shows how to create a set of unique elements and perform basic operations like adding, removing, and checking for existence.
 
 ### 3. SortedSet
 
-- **File:** `SortedSetExample.cs`
+- **File:** `SortedSet.cs`
 - **Description:** Demonstrates the usage of a SortedSet in C#. Illustrates how to create a sorted set of elements and the automatic sorting behavior.
 
 ### 4. BitArray
 
-- **File:** `BitArrayExample.cs`
+- **File:** `BitArray.cs`
 - **Description:** Demonstrates the usage of a BitArray in C#. Explains how to work with individual bits, making it useful for bitwise operations and compactly storing boolean values.
 
 ## Running the Examples
