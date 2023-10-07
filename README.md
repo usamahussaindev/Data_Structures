@@ -1,4 +1,4 @@
-# C# Data Structures Examples
+# C# Data Structures Implementation
 
 This repository contains examples of various data structures implemented in C#. Each data structure is demonstrated in a separate file, and this README provides an overview of each data structure along with usage instructions.
 
