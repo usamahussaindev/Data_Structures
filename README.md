@@ -30,13 +30,13 @@ To run any of the data structure examples, follow these steps:
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/your-data-structures-repo.git
+git clone https://github.com/usamahussaindev/data_structures
 
 2. Navigate to the directory of the specific data structure you want to run (e.g., `DataStructures`).
 
 3. Compile and run the example using the C# compiler (e.g., `csc` or `dotnet`):
 
-Replace `LinkedListExample.cs` with the filename of the data structure you want to run.
+
 
 ## Contributions
 
