@@ -30,7 +30,13 @@ To run any of the data structure examples, follow these steps:
 
 1. Clone this repository to your local machine:
 
-git clone https://github.com/usamahussaindev/data_structures
+ 
+
+  :
+   ```shell
+   git clone https://github.com/usamahussaindev/data_structures
+```
+
 
 2. Navigate to the directory of the specific data structure you want to run (e.g., `DataStructures`).
 
